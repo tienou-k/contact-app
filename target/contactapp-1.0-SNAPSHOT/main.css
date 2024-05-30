@@ -1,0 +1,27 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 28 mai 2024, 10:20:12
+    Author     : tienou.kontere
+*/
+
+h1{
+    text-align: center;
+    color: #003153;
+}
+div ul li {
+    margin-top: 15%;
+    list-style: none;
+    text-align: center;
+    padding: 10px;
+    border: 2px solid #003153;
+    border-radius: 9px;
+   
+}
+a{
+     text-decoration: none;
+    color: #003153;
+    border: none;
+}
